@@ -1,0 +1,10 @@
+.west
+build
+modules
+zephyr
+zmk
+zmk-auto-layer
+zmk-helpers
+zmk-pmw3610-driver
+zmk-tri-state
+
